@@ -1,0 +1,41 @@
+.bg{
+    --background: #0B5970;
+    text-align: center;
+    --color: white;
+
+}
+
+.t1{
+    font-size: 23px;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 8px;
+}
+.heatlog{
+ display: flex;
+ align-items: center;
+ margin: 12px;
+}
+
+
+.icon::part(native) {
+    background: none;
+    color: #fff;
+  
+  }
+
+.img{
+    width: 130px;
+    height: 130px;
+}
+.bodylog{
+    text-align: left;
+    margin: 35px;
+}
+.t2{
+    font-weight: bold;
+}
+.t3{
+    font-size: 15px;
+font-weight: lighter;
+}
